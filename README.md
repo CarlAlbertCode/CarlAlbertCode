@@ -4,6 +4,6 @@ Hey there 👋🙂
 
 🔍 Here's my current focus :
 
-– Relational / long-term memory
-– Attention alternatives
-– Efficient training & inference
+• Relational / long-term memory
+• Attention alternatives
+• Efficient training & inference
