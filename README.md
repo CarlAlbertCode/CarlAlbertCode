@@ -1,4 +1,4 @@
-LLM Engineer | Relational Memory • Neural Dynamics
+LLM Engineer | Relational Memory • Attention 
 
 Hey there 👋🙂
 
@@ -6,4 +6,4 @@ Hey there 👋🙂
 
 • Relational & Long term memory
 • Attention alternatives
-• Efficient training & Inference
+• Training and evaluation for long horizon stability
