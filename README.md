@@ -1,1 +1,1 @@
-I like building models that remember what they’re doing longer than I do 
+I like building stuff that remember what it's doing longer than I do 
